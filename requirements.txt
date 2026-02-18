@@ -1,0 +1,6 @@
+# Python 3.12
+# Web app
+flask>=3.0
+# Plotting (for plot_analytics.py)
+matplotlib>=3.7
+# Core workflow uses stdlib only (urllib, tokenize, keyword, json).
